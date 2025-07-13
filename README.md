@@ -133,6 +133,47 @@ lib/
 4. WhatsApp message generation
 5. Direct sharing integration
 
+## 📱 Screenshots
+
+### Authentication Flow
+![Login Screen](screenshots/auth/login_screen.png)
+*Login screen with Google Sign-In and Phone OTP options*
+
+![Phone Verification](screenshots/auth/phone_verification.png)
+*Phone OTP verification screen*
+
+![Profile Setup](screenshots/auth/profile_setup.png)
+*User profile setup screen*
+
+### Digital Visiting Cards
+![Cards List](screenshots/cards/cards_list.png)
+*List of user's digital cards*
+
+![Card Form](screenshots/cards/card_form.png)
+*Card creation/editing form with templates*
+
+![Card Preview](screenshots/cards/card_preview.png)
+*Card preview with QR code generation*
+
+### WhatsApp Mini-Shop
+![Products List](screenshots/shop/products_list.png)
+*Product catalog grid view*
+
+![Product Form](screenshots/shop/product_form.png)
+*Add/edit product form with image upload*
+
+![WhatsApp Sharing](screenshots/shop/whatsapp_sharing.png)
+*WhatsApp sharing with product catalog*
+
+### Dashboard & Settings
+![Dashboard](screenshots/dashboard/home_screen.png)
+*Main dashboard with navigation and user overview*
+
+![Settings](screenshots/settings/settings_screen.png)
+*Settings menu with profile and app options*
+
+*Note: Screenshots will be populated after Firebase configuration and app testing. See [screenshots/README.md](screenshots/README.md) for details.*
+
 ## Edge Cases Handled
 
 - ✅ Form validation for all inputs
